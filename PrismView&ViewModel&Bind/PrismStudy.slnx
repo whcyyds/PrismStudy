@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Prism基本对象/">
+    <Project Path="PrismBaseObj/PrismBaseObj.csproj" />
+  </Folder>
+</Solution>
