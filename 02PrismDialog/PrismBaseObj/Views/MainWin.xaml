@@ -1,0 +1,13 @@
+﻿<Window x:Class="PrismDialog.Views.MainWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrismDialog.Views"
+        mc:Ignorable="d"
+        Title="MainWin" Height="450" Width="800">
+    <StackPanel>
+        <Button Height="30" Width="120" Command="{Binding OpenCmm}">弹出窗口</Button>
+        <Button Height="30" Width="120" Command="{Binding OpenNewCmm}" Margin="2">弹出新窗口</Button>
+    </StackPanel>
+</Window>
