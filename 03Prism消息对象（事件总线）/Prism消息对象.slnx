@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Prism弹窗对象/">
+    <Project Path="PrismBaseObj/PrismDialog.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\wpf\\Prism\\PrismDialog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|e:\\wpf\\prism\\prismdialog\\prismbaseobj\\viewmodels\\dialogucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|solutionrelative:prismbaseobj\\viewmodels\\dialogucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|e:\\wpf\\prism\\prismdialog\\prismbaseobj\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|solutionrelative:prismbaseobj\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|e:\\wpf\\prism\\prismdialog\\prismbaseobj\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|solutionrelative:prismbaseobj\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|e:\\wpf\\prism\\prismdialog\\prismbaseobj\\viewmodels\\dialogucnewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|solutionrelative:prismbaseobj\\viewmodels\\dialogucnewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|e:\\wpf\\prism\\prismdialog\\prismbaseobj\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|solutionrelative:prismbaseobj\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|e:\\wpf\\prism\\prismdialog\\prismbaseobj\\views\\dialoguc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|solutionrelative:prismbaseobj\\views\\dialoguc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|e:\\wpf\\prism\\prismdialog\\prismbaseobj\\views\\dialogouter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|solutionrelative:prismbaseobj\\views\\dialogouter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|e:\\wpf\\prism\\prismdialog\\prismbaseobj\\views\\dialogouter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|solutionrelative:prismbaseobj\\views\\dialogouter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|e:\\wpf\\prism\\prismdialog\\prismbaseobj\\views\\dialogucnew.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F3B681E-C233-15BD-6D37-DB0D036644E7}|PrismBaseObj\\PrismDialog.csproj|solutionrelative:prismbaseobj\\views\\dialogucnew.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PrismBaseObj\\App.xaml.cs",
+              "ToolTip": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\App.xaml.cs",
+              "RelativeToolTip": "PrismBaseObj\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:54:12.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogUC.xaml.cs",
+              "DocumentMoniker": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\DialogUC.xaml.cs",
+              "RelativeDocumentMoniker": "PrismBaseObj\\Views\\DialogUC.xaml.cs",
+              "ToolTip": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\DialogUC.xaml.cs",
+              "RelativeToolTip": "PrismBaseObj\\Views\\DialogUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:59:01.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DialogOuter.xaml.cs",
+              "DocumentMoniker": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\DialogOuter.xaml.cs",
+              "RelativeDocumentMoniker": "PrismBaseObj\\Views\\DialogOuter.xaml.cs",
+              "ToolTip": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\DialogOuter.xaml.cs",
+              "RelativeToolTip": "PrismBaseObj\\Views\\DialogOuter.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:22:47.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DialogOuter.xaml",
+              "DocumentMoniker": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\DialogOuter.xaml",
+              "RelativeDocumentMoniker": "PrismBaseObj\\Views\\DialogOuter.xaml",
+              "ToolTip": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\DialogOuter.xaml",
+              "RelativeToolTip": "PrismBaseObj\\Views\\DialogOuter.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-16T10:22:42.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DialogUCNewViewModel.cs",
+              "DocumentMoniker": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\ViewModels\\DialogUCNewViewModel.cs",
+              "RelativeDocumentMoniker": "PrismBaseObj\\ViewModels\\DialogUCNewViewModel.cs",
+              "ToolTip": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\ViewModels\\DialogUCNewViewModel.cs",
+              "RelativeToolTip": "PrismBaseObj\\ViewModels\\DialogUCNewViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:44:58.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DialogUCNew.xaml",
+              "DocumentMoniker": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\DialogUCNew.xaml",
+              "RelativeDocumentMoniker": "PrismBaseObj\\Views\\DialogUCNew.xaml",
+              "ToolTip": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\DialogUCNew.xaml",
+              "RelativeToolTip": "PrismBaseObj\\Views\\DialogUCNew.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-16T03:44:33.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DialogUCViewModel.cs",
+              "DocumentMoniker": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\ViewModels\\DialogUCViewModel.cs",
+              "RelativeDocumentMoniker": "PrismBaseObj\\ViewModels\\DialogUCViewModel.cs",
+              "ToolTip": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\ViewModels\\DialogUCViewModel.cs*",
+              "RelativeToolTip": "PrismBaseObj\\ViewModels\\DialogUCViewModel.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:44:45.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWinViewModel.cs",
+              "DocumentMoniker": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\ViewModels\\MainWinViewModel.cs",
+              "RelativeDocumentMoniker": "PrismBaseObj\\ViewModels\\MainWinViewModel.cs",
+              "ToolTip": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\ViewModels\\MainWinViewModel.cs",
+              "RelativeToolTip": "PrismBaseObj\\ViewModels\\MainWinViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:38:58.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWin.xaml",
+              "DocumentMoniker": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\MainWin.xaml",
+              "RelativeDocumentMoniker": "PrismBaseObj\\Views\\MainWin.xaml",
+              "ToolTip": "E:\\wpf\\Prism\\PrismDialog\\PrismBaseObj\\Views\\MainWin.xaml",
+              "RelativeToolTip": "PrismBaseObj\\Views\\MainWin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-16T00:38:42.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
